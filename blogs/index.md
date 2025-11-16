@@ -5,4 +5,4 @@ title: Blog Index
 
 # This is my blog index
 
-[Home](index.md)
+[Home](root/index.md)
