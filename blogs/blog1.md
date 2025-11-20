@@ -72,7 +72,7 @@ The A+ was surprisingly fun for me because I focused on _hands-on experience_ in
 	- Basic **Nmap** enumeration and vulnerability scanning
 	- **OSINT** via social media, Google dorking, and tools like SpiderFoot or Recon-NG
 	- Looked at Metasploit scanners and Bloodhound for AD mapping
-- -Reviewed legal and regulatory frameworks:
+- Reviewed legal and regulatory frameworks:
     - Read parts of **HIPAA** and other compliance docs
 - Whenever a concept seemed abstract, I searched for a real-world case or breach to connect it to.
 
