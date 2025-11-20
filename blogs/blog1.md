@@ -2,6 +2,8 @@
 title: Blog Post 1
 layout: default
 ---
+[Back to Blog Index](index.md)
+[Back to Home](../index.md)
 
 # Introduction
 
