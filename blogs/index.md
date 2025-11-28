@@ -8,3 +8,5 @@ title: Blog Index
 [Home](../index.md)
 
 [My Experience Studying for the A+, Network+, and Security+](blog1.md)
+
+[SQL Fundamentals - Takeaways and Notes](blog2.md)
