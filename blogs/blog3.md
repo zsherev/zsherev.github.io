@@ -2,6 +2,10 @@
 title: How I Decide What's Worth Writing About
 layout: default
 ---
+[Back to Blog Index](index.md)
+
+[Back to Home](../index.md)
+
 # How I Decide What's Worth Writing About
 
 ### **Intro**

@@ -1,5 +1,5 @@
 ---
-title: Blog Post 1
+title: My Experience Studying for the A+, Network+, and Security+
 layout: default
 ---
 [Back to Blog Index](index.md)
