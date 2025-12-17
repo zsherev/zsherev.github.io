@@ -5,11 +5,8 @@ layout: default
 # How I Decide What's Worth Writing About
 
 ### **Intro**
-- Not sure but I want to soldify it going forward
-- Insight over Tutorials
-- Explain concepts simply
-
 I want to explain my thought process for deciding what's worth writing about for this blog. During my studies and coding projects, I have visited many blogs for guidance - some were extremely helpful while others were lackluster. From these experiences, I have created two principles for myself: **Insight over Walkthroughs** and **Explain Concepts Simply** to keep my blog aligned with my long-term goals.
+
 ---
 
 ## Insight over Walkthroughs
