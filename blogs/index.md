@@ -3,7 +3,7 @@ layout: default
 title: Blog Index
 ---
 
-# This is my blog index
+# Blog index
 
 [Home](../index.md)
 
